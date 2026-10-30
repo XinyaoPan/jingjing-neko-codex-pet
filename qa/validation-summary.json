@@ -1,0 +1,67 @@
+{
+  "artifact": "assets/spritesheet.png",
+  "sha256": "3b3bc47b8ef2c2ea02fcd1e5cbb96a9d617dd2a88fdd91e8fc57fb9a441e47c2",
+  "date": "2026-10-30",
+  "atlasValidation": true,
+  "qualityGate": true,
+  "independentVisualReview": "pass",
+  "blindCardinalValidation": true,
+  "jump": {
+    "idle_baseline": 200,
+    "jump_baselines": [
+      200,
+      181,
+      157,
+      181,
+      200
+    ],
+    "airborne_lift_pixels": 43,
+    "landing_delta_pixels": 0
+  },
+  "lookRegistration": {
+    "neutral_center_x": 96.5,
+    "look_centers_x": [
+      96.0,
+      95.0,
+      95.5,
+      96.0,
+      94.0,
+      95.5,
+      97.0,
+      97.5,
+      97.5,
+      97.0,
+      96.0,
+      97.0,
+      97.5,
+      97.5,
+      97.5,
+      97.0
+    ],
+    "look_widths": [
+      116,
+      114,
+      115,
+      112,
+      116,
+      113,
+      114,
+      115,
+      115,
+      112,
+      112,
+      112,
+      113,
+      113,
+      115,
+      114
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.0357142857142858
+  },
+  "reviewedWarnings": [
+    "157.5 and 337.5 have subtle horizontal gaze components at native size.",
+    "Cat-ear exterior negative space triggered upper-silhouette hole candidates; face and body remain intact."
+  ],
+  "scope": "Summarized from completed bundled pipeline reports and independent visual review. No host paths, account pet IDs or source photos included."
+}

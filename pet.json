@@ -1,0 +1,30 @@
+{
+  "packageFormat": "jingjing-neko-distribution-v1",
+  "packageVersion": "1.0.0",
+  "name": "镜镜喵",
+  "description": "简线Q版猫娘：黑发紫框眼镜、慵懒半睁眼、猫耳双尾与薄荷绿小披肩。",
+  "spriteVersionNumber": 2,
+  "spritesheet": "assets/spritesheet.png",
+  "width": 1536,
+  "height": 2288,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "framesPerRow": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "sha256": "3b3bc47b8ef2c2ea02fcd1e5cbb96a9d617dd2a88fdd91e8fc57fb9a441e47c2",
+  "encodedBytes": 2170715,
+  "installUrl": "codex://pets/install?name=%E9%95%9C%E9%95%9C%E5%96%B5&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FXinyaoPan%2Fjingjing-neko-codex-pet%2Fmain%2Fassets%2Fspritesheet.png&description=%E7%AE%80%E7%BA%BFQ%E7%89%88%E7%8C%AB%E5%A8%98%EF%BC%9A%E9%BB%91%E5%8F%91%E7%B4%AB%E6%A1%86%E7%9C%BC%E9%95%9C%E3%80%81%E6%85%B5%E6%87%92%E5%8D%8A%E7%9D%81%E7%9C%BC%E3%80%81%E7%8C%AB%E8%80%B3%E5%8F%8C%E5%B0%BE%E4%B8%8E%E8%96%84%E8%8D%B7%E7%BB%BF%E5%B0%8F%E6%8A%AB%E8%82%A9%E3%80%82&spriteVersionNumber=2",
+  "repository": "https://github.com/XinyaoPan/jingjing-neko-codex-pet",
+  "note": "This is distribution metadata, not a native Codex configuration file."
+}
